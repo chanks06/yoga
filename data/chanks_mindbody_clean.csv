@@ -1,0 +1,192 @@
+date,day,time,teacher,location,payment_method,class_type,status,web,ref_number
+2023-09-06,Wednesday,4:00 PM,Sally Garrido-Spencer,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Absent,Yes,777130
+2023-09-04,Monday,12:00 PM,Jenna Darfler,SE Hawthorne,TPY Membership,In Studio: All Level Hatha Flow,Signed in,Yes,777130
+2023-08-30,Wednesday,12:00 PM,Jenna Darfler,SE Hawthorne,TPY Membership,In Studio: All Level Hatha Flow,Signed in,Yes,777130
+2023-08-29,Tuesday,4:00 PM,Kris Olson,SE Hawthorne,TPY Membership,In Studio: Vinyasa/Restorative,Signed in,Yes,777130
+2023-08-28,Monday,12:00 PM,Jenna Darfler,SE Hawthorne,TPY Membership,In Studio: All Level Hatha Flow,Signed in,Yes,777130
+2023-08-24,Thursday,4:00 PM,Kris Olson,SE Hawthorne,TPY Membership,In Studio: Vinyasa/Restorative,Signed in,Yes,777130
+2023-08-23,Wednesday,12:00 PM,Jenna Darfler,SE Hawthorne,TPY Membership,In Studio: All Level Hatha Flow,Signed in,Yes,777130
+2023-08-22,Tuesday,4:00 PM,Kris Olson,SE Hawthorne,TPY Membership,In Studio: Vinyasa/Restorative,Signed in,Yes,777130
+2023-08-17,Thursday,5:45 PM,Kris Olson,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,777130
+2023-08-17,Thursday,4:00 PM,Kris Olson,SE Hawthorne,TPY Membership,In Studio: Vinyasa/Restorative,Signed in,Yes,777130
+2023-08-16,Wednesday,12:00 PM,Suniti Dernovsek,NE Killingsworth,TPY Membership,In Studio: All Level Hatha Flow,Signed in,Yes,777130
+2023-08-14,Monday,12:00 PM,Jenna Darfler,SE Hawthorne,10 Class Card - Senior/Student/Vet,In Studio: All Level Hatha Flow,Signed in,Yes,773605
+2023-08-10,Thursday,12:00 PM,Abby Kraai,SE Hawthorne,10 Class Card - Senior/Student/Vet,In Studio: Vinyasa Flow,Signed in,Yes,773605
+2023-08-09,Wednesday,12:00 PM,Jenna Darfler,SE Hawthorne,10 Class Card - Senior/Student/Vet,In Studio: All Level Hatha Flow,Signed in,Yes,773605
+2023-08-08,Tuesday,4:00 PM,Kris Olson,SE Hawthorne,10 Class Card - Senior/Student/Vet,In Studio: Vinyasa/Restorative,Signed in,Yes,773605
+2023-07-27,Thursday,4:00 PM,Kris Olson,SE Hawthorne,10 Class Card - Senior/Student/Vet,In Studio: Vinyasa/Restorative,Signed in,Yes,773605
+2023-07-25,Tuesday,4:00 PM,Kris Olson,SE Hawthorne,10 Class Card - Senior/Student/Vet,In Studio: Vinyasa/Restorative,Signed in,Yes,773605
+2023-07-24,Monday,12:00 PM,Jenna Darfler,SE Hawthorne,10 Class Card - Senior/Student/Vet,In Studio: All Level Hatha Flow,Signed in,Yes,773605
+2023-07-19,Wednesday,4:00 PM,Sally Garrido-Spencer,SE Hawthorne,10 Class Card - Senior/Student/Vet,In Studio: Vinyasa Flow,Signed in,Yes,773605
+2023-07-12,Wednesday,12:00 PM,Jenna Darfler,SE Hawthorne,10 Class Card - Senior/Student/Vet,In Studio: All Level Hatha Flow,Signed in,Yes,773605
+2023-07-11,Tuesday,4:00 PM,Kris Olson,SE Hawthorne,July Member Promo - Bring A Friend,In Studio: Vinyasa/Restorative,Signed in,No,774196
+2023-07-03,Monday,12:00 PM,Suniti Dernovsek,NE Killingsworth,10 Class Card - Senior/Student/Vet,In Studio: All Level Hatha Flow,Signed in,Yes,773605
+2023-06-27,Tuesday,12:00 PM,Abby Kraai,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa Flow,Signed in,Yes,771308
+2023-06-26,Monday,12:00 PM,Suniti Dernovsek,NE Killingsworth,Scholarship $35.00,In Studio: All Level Hatha Flow,Signed in,Yes,771308
+2023-06-22,Thursday,4:00 PM,Kris Olson,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa/Restorative,Signed in,Yes,771308
+2023-06-20,Tuesday,4:00 PM,Kris Olson,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa/Restorative,Signed in,Yes,771308
+2023-06-13,Tuesday,4:00 PM,Kris Olson,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa/Restorative,Signed in,Yes,771308
+2023-06-12,Monday,7:30 AM,Donica Burdette,SE Hawthorne,Scholarship $35.00,In Studio: Morning Flow,Signed in,Yes,771308
+2023-06-09,Friday,4:00 PM,Kris Olson,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa Flow,Signed in,Yes,771308
+2023-06-08,Thursday,4:00 PM,Kris Olson,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa/Restorative,Signed in,Yes,771308
+2023-06-06,Tuesday,12:00 PM,Abby Kraai,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa Flow,Signed in,Yes,771308
+2023-06-05,Monday,7:30 AM,Haleli Moalem,SE Hawthorne,Scholarship $35.00,In Studio: Morning Flow,Signed in,Yes,771308
+2023-06-03,Saturday,10:45 AM,Kris Olson,SE Hawthorne,Scholarship $35.00,In Studio: All Level Hatha Flow,Signed in,Yes,771308
+2023-05-30,Tuesday,4:00 PM,Kris Olson,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa/Restorative,Signed in,Yes,768715
+2023-05-29,Monday,7:30 AM,Haleli Moalem,SE Hawthorne,Scholarship $35.00,In Studio: Morning Flow,Signed in,Yes,768715
+2023-05-25,Thursday,4:00 PM,Kris Olson,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa/Restorative,Signed in,Yes,768715
+2023-05-23,Tuesday,4:00 PM,Kris Olson,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa/Restorative,Signed in,Yes,768715
+2023-05-21,Sunday,11:00 AM,Suniti Dernovsek,NE Killingsworth,Free Class,Teacher Training Info Session,Signed in,Yes,769074
+2023-05-20,Saturday,10:45 AM,Kris Olson,SE Hawthorne,Scholarship $35.00,In Studio: All Level Hatha Flow,Signed in,Yes,768715
+2023-05-16,Tuesday,4:00 PM,Kris Olson,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa/Restorative,Signed in,Yes,768715
+2023-05-15,Monday,7:30 AM,Alexa Rittichier,SE Hawthorne,Scholarship $35.00,In Studio: Morning Flow,Signed in,Yes,768715
+2023-05-12,Friday,7:30 AM,Sally Garrido-Spencer,SE Hawthorne,Scholarship $35.00,In Studio: Morning Flow,Signed in,Yes,768715
+2023-05-10,Wednesday,9:30 AM,Donica Burdette,NE Killingsworth,Scholarship $35.00,In Studio: Vinyasa Flow,Signed in,Yes,768715
+2023-05-09,Tuesday,4:00 PM,Kris Olson,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa/Restorative,Signed in,Yes,768715
+2023-05-08,Monday,9:30 AM,Donica Burdette,NE Killingsworth,Scholarship $35.00,In Studio: Vinyasa Flow,Signed in,Yes,768715
+2023-05-04,Thursday,5:45 PM,Kris Olson,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa Flow,Signed in,No,768715
+2023-05-04,Thursday,7:15 PM,Sally Garrido-Spencer,SE Hawthorne,Scholarship $35.00,In Studio: Yoga Nidra Practice,Signed in,Yes,768715
+2023-05-04,Thursday,5:45 PM,Kris Olson,SE Hawthorne,Scholarship $35.00,STREAMING: Vinyasa Flow,Signed in,Yes,768715
+2023-05-03,Wednesday,4:00 PM,Sally Garrido-Spencer,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa Flow,Signed in,Yes,768715
+2023-05-02,Tuesday,4:00 PM,Kris Olson,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa/Restorative,Signed in,Yes,768715
+2023-05-01,Monday,5:45 PM,Donica Burdette,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa Flow,Signed in,Yes,766096
+2023-04-29,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa Flow,Signed in,Yes,766096
+2023-04-27,Thursday,4:00 PM,Kris Olson,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa/Restorative,Signed in,Yes,766096
+2023-04-26,Wednesday,5:45 PM,Donica Burdette,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa Flow,Signed in,Yes,766096
+2023-04-24,Monday,9:30 AM,Donica Burdette,NE Killingsworth,Scholarship $35.00,In Studio: Vinyasa Flow,Signed in,Yes,766096
+2023-04-21,Friday,4:00 PM,Sally Garrido-Spencer,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa Flow,Signed in,Yes,766096
+2023-04-20,Thursday,4:00 PM,Kris Olson,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa/Restorative,Signed in,Yes,766096
+2023-04-18,Tuesday,4:00 PM,Kris Olson,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa/Restorative,Signed in,No,766096
+2023-04-17,Monday,9:30 AM,Donica Burdette,NE Killingsworth,Scholarship $35.00,In Studio: Vinyasa Flow,Signed in,Yes,766096
+2023-04-15,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa Flow,Signed in,Yes,766096
+2023-04-13,Thursday,4:00 PM,Kris Olson,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa/Restorative,Signed in,Yes,766096
+2023-04-12,Wednesday,9:30 AM,Donica Burdette,NE Killingsworth,Scholarship $35.00,In Studio: Vinyasa Flow,Late Cancel,Yes,766096
+2023-04-08,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa Flow,Signed in,Yes,766096
+2023-04-04,Tuesday,4:00 PM,Kris Olson,SE Hawthorne,Scholarship $35.00,In Studio: Vinyasa/Restorative,Signed in,Yes,766096
+2023-03-31,Friday,4:00 PM,Sally Garrido-Spencer,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,764482
+2023-03-29,Wednesday,4:00 PM,Sally Garrido-Spencer,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,764482
+2023-03-27,Monday,9:30 AM,Donica Burdette,NE Killingsworth,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,764482
+2023-03-24,Friday,4:00 PM,Sally Garrido-Spencer,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,764482
+2023-03-22,Wednesday,9:30 AM,Donica Burdette,NE Killingsworth,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,764482
+2023-03-20,Monday,5:45 PM,Donica Burdette,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,764482
+2023-03-18,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,764482
+2023-03-17,Friday,4:00 PM,Monika Gold,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,764482
+2023-03-14,Tuesday,4:00 PM,Kris Olson,SE Hawthorne,TPY Membership,In Studio: Vinyasa/Restorative,Signed in,Yes,764482
+2023-03-13,Monday,5:45 PM,Donica Burdette,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,764482
+2023-03-11,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,762059
+2023-03-09,Thursday,12:00 PM,Abby Kraai,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,762059
+2023-03-06,Monday,9:30 AM,Donica Burdette,NE Killingsworth,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,762059
+2023-02-28,Tuesday,4:00 PM,Kris Olson,SE Hawthorne,TPY Membership,In Studio: Vinyasa/Restorative,Signed in,Yes,762059
+2023-02-27,Monday,5:45 PM,Donica Burdette,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,762059
+2023-02-26,Sunday,9:00 AM,Kris Olson,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Late Cancel,Yes,762059
+2023-02-25,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,762059
+2023-02-24,Friday,4:00 PM,Kris Olson,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,762059
+2023-02-20,Monday,5:45 PM,Donica Burdette,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,762059
+2023-02-17,Friday,9:30 AM,April Fox,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,762059
+2023-02-14,Tuesday,4:00 PM,Kris Olson,SE Hawthorne,TPY Membership,In Studio: Vinyasa/Restorative,Signed in,Yes,762059
+2023-02-13,Monday,9:30 AM,Donica Burdette,NE Killingsworth,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,762059
+2023-02-11,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,749351
+2023-02-10,Friday,4:00 PM,Sally Garrido-Spencer,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,749351
+2023-02-07,Tuesday,4:00 PM,Kris Olson,SE Hawthorne,TPY Membership,In Studio: Vinyasa/Restorative,Signed in,Yes,749351
+2023-02-06,Monday,12:00 PM,Patty Harding,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,749351
+2023-02-03,Friday,12:00 PM,Kris Olson,NE Killingsworth,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,749351
+2023-02-02,Thursday,9:30 AM,Richelle Ricard,SE Hawthorne,TPY Membership,In Studio: All Level Hatha Flow,Signed in,Yes,749351
+2023-01-31,Tuesday,12:00 PM,Abby Kraai,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,749351
+2023-01-30,Monday,4:00 PM,Sally Garrido-Spencer,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,749351
+2023-01-28,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,749351
+2023-01-27,Friday,4:00 PM,Sally Garrido-Spencer,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,749351
+2023-01-25,Wednesday,9:30 AM,Donica Burdette,NE Killingsworth,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,749351
+2023-01-24,Tuesday,4:00 PM,Kris Olson,SE Hawthorne,TPY Membership,In Studio: Vinyasa/Restorative,Signed in,Yes,749351
+2023-01-23,Monday,5:45 PM,Donica Burdette,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,749351
+2023-01-21,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,749351
+2023-01-20,Friday,12:00 PM,Kris Olson,NE Killingsworth,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,749351
+2023-01-18,Wednesday,4:00 PM,Sally Garrido-Spencer,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,749351
+2023-01-17,Tuesday,4:00 PM,Kris Olson,SE Hawthorne,TPY Membership,In Studio: Vinyasa/Restorative,Signed in,Yes,749351
+2023-01-14,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,749351
+2023-01-12,Thursday,4:00 PM,Kris Olson,SE Hawthorne,TPY Membership,In Studio: Vinyasa/Restorative,Signed in,Yes,746945
+2023-01-10,Tuesday,4:00 PM,Patty Harding,SE Hawthorne,TPY Membership,In Studio: Vinyasa/Restorative,Signed in,Yes,746945
+2023-01-09,Monday,5:45 PM,Donica Burdette,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,746945
+2023-01-05,Thursday,12:00 PM,Abby Kraai,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,746945
+2023-01-03,Tuesday,4:00 PM,Kris Olson,SE Hawthorne,TPY Membership,In Studio: Vinyasa/Restorative,Signed in,Yes,746945
+2023-01-02,Monday,4:00 PM,Donica Burdette,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,746945
+2022-12-27,Tuesday,12:00 PM,Abby Kraai,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,746945
+2022-12-26,Monday,4:00 PM,Donica Burdette,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,746945
+2022-12-22,Thursday,4:00 PM,Kris Olson,SE Hawthorne,TPY Membership,In Studio: Vinyasa/Restorative,Signed in,Yes,746945
+2022-12-20,Tuesday,12:00 PM,Abby Kraai,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,746945
+2022-12-19,Monday,4:00 PM,Donica Burdette,SE Hawthorne,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,746945
+2022-12-16,Friday,12:00 PM,Kris Olson,NE Killingsworth,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,746945
+2022-12-14,Wednesday,4:00 PM,Anna Mitra,NE Killingsworth,TPY Membership,In Studio: Vinyasa/Restorative,Signed in,Yes,746945
+2022-12-13,Tuesday,9:30 AM,Donica Burdette,NE Killingsworth,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,746945
+2022-12-12,Monday,5:30 PM,Emily Wolbers,NE Killingsworth,TPY Membership,In Studio: Vinyasa Flow,Signed in,Yes,746945
+2022-12-09,Friday,12:00 PM,Kris Olson,NE Killingsworth,10 Class Card,In Studio: Vinyasa Flow,Signed in,Yes,720754
+2022-11-28,Monday,4:00 PM,Donica Burdette,SE Hawthorne,10 Class Card,In Studio: Vinyasa Flow,Signed in,Yes,720754
+2022-11-21,Monday,4:00 PM,Donica Burdette,SE Hawthorne,10 Class Card,In Studio: Vinyasa Flow,Signed in,Yes,720754
+2022-11-15,Tuesday,9:30 AM,Donica Burdette,NE Killingsworth,10 Class Card,In Studio: Vinyasa Flow,Signed in,Yes,720754
+2022-10-22,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,10 Class Card,In Studio: Vinyasa Flow,Signed in,Yes,720754
+2022-10-10,Monday,4:00 PM,Donica Burdette,SE Hawthorne,10 Class Card,In Studio: Vinyasa Flow,Signed in,Yes,720754
+2022-10-03,Monday,4:00 PM,Donica Burdette,SE Hawthorne,10 Class Card,In Studio: Vinyasa Flow,Signed in,Yes,720754
+2022-09-26,Monday,4:00 PM,Donica Burdette,SE Hawthorne,10 Class Card,In Studio: Vinyasa Flow,Signed in,Yes,720754
+2022-09-19,Monday,4:00 PM,Donica Burdette,SE Hawthorne,10 Class Card,In Studio: Vinyasa Flow,Signed in,Yes,720754
+2022-09-15,Thursday,12:00 PM,Donica Burdette,SE Hawthorne,10 Class Card,In Studio: Vinyasa Flow,Signed in,Yes,720754
+2022-07-28,Thursday,12:00 PM,Abby Kraai,SE Hawthorne,Drop In,In Studio: Vinyasa Flow,Signed in,Yes,707929
+2022-07-02,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,Drop In,In Studio: Vinyasa Flow,Signed in,Yes,696276
+2022-06-04,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,673496
+2022-05-28,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,673496
+2022-05-22,Sunday,10:15 AM,Marianne Tanner,NE Killingsworth,Individual Peoples Membership -Auto-Pay,In Studio: Hatha Flow,Signed in,Yes,673496
+2022-05-20,Friday,4:00 PM,Sally Garrido-Spencer,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,673496
+2022-05-14,Saturday,12:30 PM,Jacob Friedman,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,671305
+2022-05-07,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,671305
+2022-04-30,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,671305
+2022-04-23,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,671305
+2022-04-19,Tuesday,4:00 PM,Kris Olson,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa/Restorative,Signed in,Yes,669262
+2022-04-18,Monday,4:00 PM,Donica Burdette,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,669262
+2022-04-16,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,669262
+2022-04-08,Friday,4:00 PM,Abby Kraai,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,669262
+2022-04-01,Friday,4:00 PM,Abby Kraai,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,669262
+2022-03-25,Friday,12:00 PM,Kris Olson,NE Killingsworth,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Late Cancel,Yes,669262
+2022-03-19,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,667385
+2022-03-12,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,667385
+2022-03-09,Wednesday,4:00 PM,Abby Kraai,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa/Restorative,Signed in,Yes,667385
+2022-03-05,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,667385
+2022-02-26,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,Individual Peoples Membership -Auto-Pay,STREAMING : Vinyasa Flow Hybrid,Signed in,Yes,667385
+2022-02-23,Wednesday,12:00 PM,Donica Burdette,NE Killingsworth,Individual Peoples Membership -Auto-Pay,In Studio: All Level Hatha Flow,Signed in,Yes,667385
+2022-02-20,Sunday,10:15 AM,Marianne Tanner,NE Killingsworth,Individual Peoples Membership -Auto-Pay,In Studio: Hatha Flow,Signed in,Yes,667385
+2022-02-12,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,663793
+2022-02-05,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,663793
+2022-02-02,Wednesday,4:00 PM,Abby Kraai,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa/Restorative,Signed in,Yes,663793
+2022-01-29,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,663793
+2022-01-26,Wednesday,12:00 PM,Donica Burdette,NE Killingsworth,Individual Peoples Membership -Auto-Pay,In Studio: All Level Hatha Flow,Signed in,Yes,663793
+2022-01-22,Saturday,12:30 PM,Ian LeMasters,NE Killingsworth,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,663793
+2021-12-15,Wednesday,12:00 PM,Donica Burdette,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,652104
+2021-12-04,Saturday,12:30 PM,Kindra Flavin,NE Killingsworth,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,652104
+2021-11-25,Thursday,10:45 AM,Abby Kraai,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,652104
+2021-11-20,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,652104
+2021-11-14,Sunday,12:30 PM,April Fox,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa + Yin,Late Cancel,Yes,640387
+2021-11-10,Wednesday,12:00 PM,Donica Burdette,NE Killingsworth,Individual Peoples Membership -Auto-Pay,In Studio: All Level Hatha Flow,Signed in,Yes,640387
+2021-11-06,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,Individual Peoples Membership -Auto-Pay,STREAMING : Vinyasa Flow Hybrid,Signed in,Yes,640387
+2021-11-03,Wednesday,4:00 PM,Abby Kraai,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa/Restorative,Signed in,Yes,640387
+2021-10-30,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,640387
+2021-10-25,Monday,4:00 PM,Donica Burdette,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,640387
+2021-10-23,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,640387
+2021-10-20,Wednesday,4:00 PM,Abby Kraai,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa/Restorative,Signed in,No,640387
+2021-10-16,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa Flow,Signed in,Yes,638926
+2021-10-13,Wednesday,4:00 PM,Abby Kraai,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa/Restorative,Signed in,Yes,638926
+2021-10-10,Sunday,12:30 PM,Natasha Wightman,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa + Yin,Signed in,Yes,638926
+2021-10-06,Wednesday,12:00 PM,Katrina Norwood,NE Killingsworth,Individual Peoples Membership -Auto-Pay,In Studio: All Level Hatha Flow,Signed in,Yes,638926
+2021-10-03,Sunday,12:30 PM,Kindra Flavin,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa + Yin,Signed in,Yes,638926
+2021-09-29,Wednesday,4:00 PM,Abby Kraai,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa/Restorative,Signed in,Yes,638926
+2021-09-26,Sunday,12:30 PM,Natasha Wightman,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa + Yin,Signed in,Yes,638926
+2021-09-22,Wednesday,4:00 PM,Abby Kraai,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa/Restorative,Signed in,Yes,638926
+2021-09-19,Sunday,12:30 PM,Natasha Wightman,SE Hawthorne,Individual Peoples Membership -Auto-Pay,In Studio: Vinyasa + Yin,Signed in,Yes,638926
+2021-09-18,Saturday,12:30 PM,Donica Burdette,SE Hawthorne,$30.00 for 30 days Unlimited: New Students Only,In Studio: Vinyasa Flow,Signed in,Yes,627580
+2021-09-15,Wednesday,4:00 PM,Abby Kraai,SE Hawthorne,$30.00 for 30 days Unlimited: New Students Only,In Studio: Vinyasa/Restorative,Signed in,Yes,627580
+2021-09-08,Wednesday,4:00 PM,Abby Kraai,SE Hawthorne,$30.00 for 30 days Unlimited: New Students Only,In Studio: Vinyasa/Restorative,Signed in,Yes,627580
+2021-09-05,Sunday,9:00 AM,Kris Olson,SE Hawthorne,$30.00 for 30 days Unlimited: New Students Only,In Studio: Vinyasa Flow,Signed in,Yes,627580
+2021-09-01,Wednesday,4:00 PM,Abby Kraai,SE Hawthorne,$30.00 for 30 days Unlimited: New Students Only,In Studio: Vinyasa/Restorative,Signed in,Yes,627580
+2021-08-29,Sunday,12:00 PM,TPY Teacher Training Alumni,NE Killingsworth,Free Class,In Studio: Free Class with Teacher Trainees,Signed in,Yes,637877
+2021-08-26,Thursday,12:00 PM,Abby Kraai,SE Hawthorne,$30.00 for 30 days Unlimited: New Students Only,In Studio: Vinyasa Flow,Signed in,Yes,627580
+2021-08-22,Sunday,12:00 PM,TPY Teacher Training Alumni,NE Killingsworth,Free Class,In Studio: Free Class with Teacher Trainees,Signed in,Yes,627581
+2021-08-21,Saturday,12:30 PM,Ian LeMasters,NE Killingsworth,$30.00 for 30 days Unlimited: New Students Only,In Studio: Vinyasa Flow,Signed in,Yes,627580
+2021-08-20,Friday,12:00 PM,Kris Olson,NE Killingsworth,$30.00 for 30 days Unlimited: New Students Only,In Studio: Vinyasa Flow,Signed in,Yes,627580
+2021-08-08,Sunday,12:00 PM,TPY Teacher Training Alumni,NE Killingsworth,Free Class,In Studio: Free Class with Teacher Trainees,Signed in,Yes,626924
+2021-08-01,Sunday,12:00 PM,TPY Teacher Training Alumni,NE Killingsworth,Free Class,In Studio: Free Class with Teacher Trainees,Signed in,Yes,626634
